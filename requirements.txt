@@ -1,0 +1,5 @@
+Django~=5.1.2
+print('Hello, Django Girls')
+3 > 2
+a = True
+a = 2 > 5
